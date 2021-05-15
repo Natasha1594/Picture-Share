@@ -68,9 +68,9 @@ WSGI_APPLICATION = 'pictureshare.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': config('DB_NAME'),
-        'USER': config('DB_USER'),
-        'PASSWORD': config('DB_PASSWORD'),
+        'NAME': ('photos'),
+        'USER': ('natasha'),
+        'PASSWORD': ('natasha'),
         'HOST': config('DB_HOST'),
     }
 }
