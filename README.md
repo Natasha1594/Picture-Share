@@ -6,7 +6,10 @@
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/x-special/nautilus-clipboard
+copy
+file:///home/natasha/Downloads/picture%20app.png
+)
 
 
 
