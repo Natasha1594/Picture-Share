@@ -1,4 +1,6 @@
-#!/home/armidad/Desktop/natasha/Picture-Globe-master/virtual/bin/python3
+#!/bin/sh
+'''exec' "/home/natasha/Desktop/Picture Share/virtual/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

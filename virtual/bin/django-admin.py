@@ -1,4 +1,4 @@
-#!/home/armidad/Desktop/natasha/Picture-Globe-master/virtual/bin/python3
+#!/home/natasha/Desktop/Picture Share/virtual/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
