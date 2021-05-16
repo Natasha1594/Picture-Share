@@ -14,6 +14,7 @@ class Category(models.Model):
         self.delete()
 
 
+# Created Location Model
 class Location(models.Model):
     name = models.CharField(max_length=60)
 
