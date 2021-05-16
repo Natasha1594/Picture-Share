@@ -27,7 +27,7 @@ This is a Django application for personal gallery that allows a user to upload i
 * Copy a link to the photo to share with my friends.  
 * View photos based on the location they were taken.  
   
-
+---
   
 ## Setup and Installation  
  Install and activate Virtual  
