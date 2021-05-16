@@ -6,10 +6,7 @@
 
 
 
-![alt text](http://url/to/x-special/nautilus-clipboard
-copy
-file:///home/natasha/Downloads/picture%20app.png
-)
+<img src="images/picture app.png">
 
 
 
