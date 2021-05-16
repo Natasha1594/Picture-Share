@@ -17,7 +17,7 @@ This is a Django application for personal gallery that allows a user to upload i
   
  Click [View Site](https://picturesharen.herokuapp.com/)  to visit the site
   
-
+---
  
 ## User Story  
   
