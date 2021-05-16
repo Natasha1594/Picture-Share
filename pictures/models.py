@@ -37,6 +37,7 @@ class Location(models.Model):
         self.delete()
 
 
+# Created model fro Image
 class Image(models.Model):
     image = models.ImageField(upload_to='images/')
     name = models.CharField(max_length=60)
