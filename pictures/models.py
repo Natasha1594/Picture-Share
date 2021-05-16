@@ -1,6 +1,6 @@
 from django.db import models
 
-
+# Created Category Model
 class Category(models.Model):
     name = models.CharField(max_length=50)
 
