@@ -71,7 +71,7 @@ DATABASES = {
         'NAME': ('photos'),
         'USER': ('natasha'),
         'PASSWORD': ('natasha'),
-        'HOST': ('DB_HOST'),
+        'HOST': ('127.0.0.1'),
     }
 }
 db_from_env = dj_database_url.config(conn_max_age=500)
